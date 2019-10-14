@@ -24,7 +24,7 @@ The above bullet points will be replaced with a much more detailed description o
 
 This project is a joint effort with the participants being:
 
-* Prajwal D. V. [PES1201800227]
+* [Prajwal D. V.](https://github.com/PrajwalAmI) [PES1201800227]
 * [Yogesh T. S.](https://github.com/YogeshMorpho) [PES1201801723]
 * [Prateek Nayak](https://github.com/Kriyszig) [PES1201800054]
 
