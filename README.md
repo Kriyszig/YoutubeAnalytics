@@ -30,6 +30,6 @@ This project is a joint effort with the participants being:
 
 ### Contributions
 
-Due to the nature of the project, external contributions will require a review from the handling faculty. To avoid unnecessary trouble, we will not merge any Pull Requests until the project submission after which any and all contributions are highly appreciated. In case you wat to help us in an another way, open an issue with a possible enhancement for the project. Any and all feedback will be highly valued.
+Due to the nature of the project, external contributions will require a review from the handling faculty. To avoid unnecessary trouble, we will not merge any Pull Requests until the project submission after which any and all contributions are highly appreciated. In case you want to help us in an another way, open an issue with a possible enhancement for the project. Any and all feedback will be highly valued.
 
 Thank you.
